@@ -21,11 +21,11 @@ variable "ERPNEXT_VERSION" {
 }
 
 variable "FRAPPE_REPO" {
-    default = "https://github.com/frappe/frappe"
+    default = "https://github.com/zendela/frappe"
 }
 
 variable "ERPNEXT_REPO" {
-    default = "https://github.com/frappe/erpnext"
+    default = "https://github.com/zendela/erpnext"
 }
 
 variable "BENCH_REPO" {
